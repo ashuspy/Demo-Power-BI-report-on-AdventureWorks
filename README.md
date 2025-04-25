@@ -69,7 +69,9 @@ To view and interact with the report:
 ![image](https://github.com/user-attachments/assets/9d481a29-a722-4c5e-b09f-2a00d17103ba)
 ![image](https://github.com/user-attachments/assets/21544521-80a2-4722-baf1-a956025d4056)
 ![image](https://github.com/user-attachments/assets/ca870ebc-0bbe-4ea5-91c6-17ecff84a5f0)
-![image](https://github.com/user-attachments/assets/23f3f0db-bf19-4bbf-acfa-714546de7fd9)
+
+![image](https://github.com/user-attachments/assets/266a763f-23b7-4db9-a051-d2f0d62d64c3)
+
 ![image](https://github.com/user-attachments/assets/080ba98a-178c-42bb-9b1c-d95ed052e82d)
 ![image](https://github.com/user-attachments/assets/3e6a754d-e41b-4042-bec9-ac66bbac3f28)
 ![image](https://github.com/user-attachments/assets/2998d078-9bf0-4ab1-a8f0-f40b9a37f6a0)
